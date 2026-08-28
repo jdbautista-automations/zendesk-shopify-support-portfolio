@@ -1,19 +1,17 @@
 # Zendesk + Shopify Ecommerce Support Portfolio
 
-A standalone, privacy-protected case study of Joshua Bautista's ecommerce email-support work for a European cosmetics brand. The original company name, customer information, and internal training content remain private.
+A standalone, privacy-protected case study of Joshua Bautista's ecommerce email-support work for a European cosmetics brand. The original company name and customer information remain private, and no internal training material is published.
 
 ## Engagement represented
 
 - Short-term outsourced engagement completed outside Upwork
-- December 2025 to January 2026
 - Zendesk email support with Shopify order investigation
 - Google Sheets ticket logging
 - DeepL and ChatGPT-assisted communication with human review
 - Eight European markets supported
 - 15+ tickets/hour operational target
 - Split-shift coverage Monday through Saturday, plus Sunday follow-up coverage
-- Likely Central European Time alignment during the December–January engagement
-- Retained training material covering returns, delivery exceptions, order changes, payment-specific refund flows, Klarna disputes, promotions, and follow-up procedures
+- Central European Time-aligned market coverage during the engagement
 
 ## Privacy and accuracy
 
@@ -31,6 +29,6 @@ Open `index.html` in a browser. No build tools or dependencies are required.
 4. Under **Build and deployment**, choose **Deploy from a branch**.
 5. Select the `main` branch and `/ (root)` folder, then save.
 
-## Contact
+## Professional profile
 
-Joshua Bautista — [joshuaisonfaya@gmail.com](mailto:joshuaisonfaya@gmail.com)
+Joshua Bautista — [Upwork freelancer profile](https://www.upwork.com/freelancers/~01811f71e224a9a5d6?mp_source=share)
